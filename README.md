@@ -1,11 +1,8 @@
 <!-- Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79B&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Trong+Khanh!;Python+Developer+%7C+Chess+Bot+Maker;Football+and+Tech+Enthusiast;Always+Learning+New+Things" alt="Hi there, I'm Trong Khanh!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79B&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Trong+Khanh!;Python+Developer+%7C+Chess+Bot+Maker;Football+and+Tech+Enthusiast;Always+Learning+New+Things" alt="" />
 </p>
-
-# Hi there, I'm Trong Khanh!
-
 
 ---
 
@@ -60,4 +57,5 @@
 <p align="center">
   <a href="https://github.com/MDoTrongKhanh"><img src="https://img.shields.io/badge/GitHub-MDoTrongKhanh-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://discordapp.com/users/khanhduo"><img src="https://img.shields.io/badge/Discord-khanhduo-5865F2?style=for-the-badge&logo=discord" /></a>
+  <a href="https://www.chess.com/member/dtk-lqa-tn-yb-12-13"><img src="https://img.shields.io/badge/Chess.com-DTK--LQA--TN--YB--12--13-81B64C?style=for-the-badge&logo=chess-dot-com" /></a>
 </p>
