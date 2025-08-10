@@ -28,6 +28,18 @@
 
 ---
 
+## 📈 Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDoTrongKhanh&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/docs/demo/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
+
+---
+
 ## 🏆 Trophies  
 
 <p align="center">
