@@ -31,9 +31,8 @@
 ## 📅 Contributions Calendar  
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F79B/MDoTrongKhanh" alt="MDoTrongKhanh's Github chart" />
+  <iframe src="https://github.com/users/MDoTrongKhanh/contributions" frameborder="0" scrolling="no" width="100%" height="200"></iframe>
 </p>
-
 
 ---
 
