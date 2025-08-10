@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+KhanhSF;Coder+%7C+Football+Fan+%7C+Chess+Lover;Fan+of+Real+Madrid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Trong+Khanh;Coder+%7C+Football+Fan+%7C+Chess+Lover;Fan+of+Real+Madrid" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
