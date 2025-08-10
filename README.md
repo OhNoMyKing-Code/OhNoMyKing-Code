@@ -1,8 +1,11 @@
 <!-- Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79B&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Trong+Khanh!;Python+Developer+%7C+Chess+Bot+Maker;Football+and+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79B&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Trong+Khanh!;Python+Developer+%7C+Chess+Bot+Maker;Football+and+Tech+Enthusiast;Always+Learning+New+Things" alt="Hi there, I'm Trong Khanh!" />
 </p>
+
+# Hi there, I'm Trong Khanh!
+
 
 ---
 
