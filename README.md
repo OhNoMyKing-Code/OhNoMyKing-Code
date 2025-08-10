@@ -1,69 +1,54 @@
-<!-- Profile README -->
-
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79B&center=true&vCenter=true&width=650&lines=Hi+there+👋,+I'm+Trong+Khanh!;Python+Developer+%7C+Chess+Bot+Maker;Football+and+Tech+Enthusiast;Always+Learning+New+Things" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+KhanhSF;Coder+%7C+Football+Fan+%7C+Chess+Lover;Fan+of+Real+Madrid" alt="Typing SVG" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://discord.com/users/khanhduo">
+    <img src="https://img.shields.io/badge/Discord-khanhduo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.chess.com/member/DTK-LQA-TN-YB-12-13">
+    <img src="https://img.shields.io/badge/Chess.com-DTK--LQA--TN--YB--12--13-81b64c?style=for-the-badge&logo=chess&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Student & self-taught developer from **Vietnam**  
-- 💻 Love coding in **Python** and building bots for chess  
-- ⚽ Football fan (Hala Madrid 🤍)  
-- ♟️ Chess enthusiast & Lichess bot creator  
-- 🌱 Always learning and improving my skills  
-
----
-
-## 📊 GitHub Stats & Activity  
-
+## 📊 Stats & Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDoTrongKhanh&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDoTrongKhanh&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KHANHSF&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KHANHSF&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDoTrongKhanh&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHANHSF&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 📅 Contributions Calendar  
-
+## 📅 Contributions Calendar
 <p align="center">
-  <iframe src="https://github.com/users/MDoTrongKhanh/contributions" frameborder="0" scrolling="no" width="100%" height="200"></iframe>
+  <img src="https://ghchart.rshah.org/00F79B/MDoTrongKhanh" alt="MDoTrongKhanh's Github chart" />
 </p>
 
 ---
 
-## 🏆 Trophies  
-
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MDoTrongKhanh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=MDoTrongKhanh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Tools & Technologies  
-
+## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,linux,vscode,docker" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
 
-## 📌 Featured Projects  
-
-- **[BotLi](https://github.com/MDoTrongKhanh/BotLi)** – A powerful Lichess bot for online chess battles  
-- **[Opening Book Creator](https://github.com/MDoTrongKhanh/opening-book-creator)** – Tool for generating custom chess opening books  
-- **[LearningMathIT](https://github.com/MDoTrongKhanh/LearningMathIT)** – Python scripts for learning mathematics interactively  
-
----
-
-## 📫 Connect with Me  
-
+## 👀 Profile Views
 <p align="center">
-  <a href="https://github.com/MDoTrongKhanh"><img src="https://img.shields.io/badge/GitHub-MDoTrongKhanh-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://discordapp.com/users/khanhduo"><img src="https://img.shields.io/badge/Discord-khanhduo-5865F2?style=for-the-badge&logo=discord" /></a>
-  <a href="https://www.chess.com/member/dtk-lqa-tn-yb-12-13"><img src="https://img.shields.io/badge/Chess.com-DTK--LQA--TN--YB--12--13-81B64C?style=for-the-badge&logo=chess-dot-com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MDoTrongKhanh&label=Profile%20Views&color=00F79B&style=for-the-badge" alt="Profile views" />
 </p>
