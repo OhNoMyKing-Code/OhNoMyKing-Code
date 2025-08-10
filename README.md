@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 Pinned Projects  
-- ![BotLi](https://github.com/MDoTrongKhanh/BotLi) – A powerful Lichess bot for online chess battles.  
-- ![Opening Book Creator](https://github.com/MDoTrongKhanh/opening-book-creator) – Tool for generating custom chess opening books.  
-- ![LearningMathIT](https://github.com/MDoTrongKhanh/LearningMathIT)! – Python scripts for learning mathematics interactively.  
+- [BotLi](https://github.com/MDoTrongKhanh/BotLi) – A powerful Lichess bot for online chess battles.  
+- [Opening Book Creator](https://github.com/MDoTrongKhanh/opening-book-creator) – Tool for generating custom chess opening books.  
+- [LearningMathIT](https://github.com/MDoTrongKhanh/LearningMathIT) – Python scripts for learning mathematics interactively.  
 
 ---
 
