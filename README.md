@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MDoTrongKhanh&show_icons=true&theme=tokyonight&count_private=true" height="165" />
@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDoTrongKhanh&theme=react-dark&hide_border=true&area=true" />
 </p>
-
 
 ---
 
@@ -47,6 +46,15 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+
+---
+
+## 🐍 GitHub Snake Animation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 
