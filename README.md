@@ -58,11 +58,11 @@
 ---
 
 ## 📅 Contributions Calendar
-
 <p align="center">
   <img src="https://ghchart.rshah.org/00F79B/MDoTrongKhanh" alt="MDoTrongKhanh's Github chart" />
+  <br/>
+  <em>Keep the streak alive! 💪🔥</em>
 </p>
-
 ---
 
 ## ✨ Random Dev Quote
