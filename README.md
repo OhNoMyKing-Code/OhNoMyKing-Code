@@ -58,10 +58,11 @@
 ---
 
 ## 📅 Contributions Calendar
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/00F79B/MDoTrongKhanh" alt="MDoTrongKhanh's Github chart" />
-  <br/>
-  <em>Keep the streak alive! 💪🔥</em>
+  <a href="https://github.com/MDoTrongKhanh">
+    <img src="https://github.com/MDoTrongKhanh/MDoTrongKhanh/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
 </p>
 
 ---
