@@ -34,6 +34,15 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MDoTrongKhanh&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDoTrongKhanh&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDoTrongKhanh&show_icons=true&theme=tokyonight)
+
+---
 
 ## ✨ Random Dev Quote
 <p align="center">
