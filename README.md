@@ -63,6 +63,9 @@
   <br/>
   <em>Keep the streak alive! 💪🔥</em>
 </p>
+
+[![Contributions](https://ghchart.rshah.org/00F79B/MDoTrongKhanh)](https://github.com/MDoTrongKhanh)
+
 ---
 
 ## ✨ Random Dev Quote
