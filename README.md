@@ -36,10 +36,8 @@
 ---
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MDoTrongKhanh&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
-</p>
-
+<li><a target="_blank" href=""></a></li>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDoTrongKhanh&" alt="MDoTrongKhanh" /></p>
 ---
 
 ## ✨ Random Dev Quote
