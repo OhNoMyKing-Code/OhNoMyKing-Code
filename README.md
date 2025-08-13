@@ -31,20 +31,20 @@
 ---
 
 ## 🚀 Featured Projects
-- [⚡ Real-Time Chat App](https://github.com/MDoTrongKhanh/chat-app)
-- [📊 Football Stats Tracker](https://github.com/MDoTrongKhanh/football-stats)
+- [⚡ Real-Time Chat App](https://github.com/OhNoMyKing-Code/chat-app)
+- [📊 Football Stats Tracker](https://github.com/OhNoMyKing-Code/football-stats)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDoTrongKhanh&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDoTrongKhanh&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OhNoMyKing-Code&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhNoMyKing-Code&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MDoTrongKhanh&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OhNoMyKing-Code&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MDoTrongKhanh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhNoMyKing-Code&theme=tokyonight" />
 </p>
 
 ---
@@ -60,8 +60,8 @@
 ## 📅 Contributions Calendar
 
 <p align="center">
-  <a href="https://github.com/MDoTrongKhanh">
-    <img src="https://github.com/MDoTrongKhanh/MDoTrongKhanh/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <a href="https://github.com/OhNoMyKing-Code">
+    <img src="https://github.com/OhNoMyKing-Code/OhNoMyKing-Code/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
 </p>
 
@@ -78,5 +78,5 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MDoTrongKhanh&label=Profile%20Views&color=00F79B&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OhNoMyKing-Code&label=Profile%20Views&color=00F79B&style=for-the-badge" alt="Profile views" />
 </p>
