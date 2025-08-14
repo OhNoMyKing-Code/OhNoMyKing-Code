@@ -31,13 +31,17 @@
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=OhNoMyKing-Code&#x26;theme=onedark&#x26;no-frame=true&#x26;no-bg=true&#x26;margin-w=15" alt="GitHub Trophies">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhanhSF&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OhNoMyKing-Code&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhNoMyKing-Code&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OhNoMyKing-Code&show_icons=true&theme=dark&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhNoMyKing-Code&layout=compact&theme=dark" height="165" />
 </p>
 
 <p align="center">
@@ -49,7 +53,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhNoMyKing-Code&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhNoMyKing-Code&theme=dark" />
 </p>
 
 ---
@@ -67,7 +71,7 @@
 ## ✨ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
 </p>
 
 ---
