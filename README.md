@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhanhSF&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OhNoMyKing-Code&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
