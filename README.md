@@ -32,7 +32,6 @@
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=OhNoMyKing-Code&#x26;theme=onedark&#x26;no-frame=true&#x26;no-bg=true&#x26;margin-w=15" alt="GitHub Trophies">
----
 
 ## 📊 GitHub Stats & Activity
 
