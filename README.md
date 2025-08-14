@@ -31,8 +31,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhanhSF&theme=onedark&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy]([https://github-profile-trophy.vercel.app/?username=KhanhSF&theme=onedark&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=OhNoMyKing-Code&theme=light))
 ---
 
 ## 📊 GitHub Stats & Activity
