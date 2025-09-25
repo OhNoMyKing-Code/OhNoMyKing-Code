@@ -10,11 +10,11 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://discord.com/users/khanhduo">
-    <img src="https://img.shields.io/badge/Discord-khanhduo-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/ilovechess12">
+    <img src="https://img.shields.io/badge/Discord-ilovechess12-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/DTK-LQA-TN-YB-12-13">
-    <img src="https://img.shields.io/badge/Chess.com-DTK--LQA--TN--YB--12--13-81b64c?style=for-the-badge&logo=chess&logoColor=white" />
+  <a href="https://www.chess.com/member/NKT-DoTrongKhanh-2012">
+    <img src="https://img.shields.io/badge/Chess.com-NKT--DoTrongKhanh--2012-81b64c?style=for-the-badge&logo=chess&logoColor=white" />
   </a>
 </p>
 
